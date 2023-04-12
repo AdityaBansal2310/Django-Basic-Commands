@@ -47,7 +47,7 @@ It is an essential and necessary command to log in to the default admin interfac
 
 There are chances, we forget our password of the default admin interface panel. Then it becomes very much necessary to reset it because without a password we will not be able to get access to the default admin interface pannel. We must provide the appropriate <username> whose password has to be reset while running this command.
 ```
-  > python3 manage.py changepassword <username>
+> python3 manage.py changepassword <username>
 ```
 ### 8. Run server
 
